@@ -1,4 +1,4 @@
-This project has been created as part of the 42 curriculum by <login>.
+This project has been created as part of the 42 curriculum by <alde-abr>.
 
 # Description
 
@@ -76,3 +76,4 @@ AI tools were used as a learning assistant to:
 
 This project is intended as a learning exercise.  
 The focus is on understanding why a network works, not only making it work.
+
